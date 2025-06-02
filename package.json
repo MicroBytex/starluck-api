@@ -1,0 +1,9 @@
+{
+  "name": "starluck-api",
+  "version": "1.0.0",
+  "description": "API para buscar scripts de StarLuck",
+  "private": false,
+  "engines": {
+    "node": ">=18.x"
+  }
+}
